@@ -1,0 +1,6 @@
+.logo-login {
+    display: block;
+    margin: 0 auto 20px; /* centrer l'image et espacer du texte */
+    width: 300px; /* ajustez la taille selon vos préférences */
+    height: auto; /* garder les proportions de l'image */
+}
